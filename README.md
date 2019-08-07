@@ -1,3 +1,4 @@
+![Screenshot of camping capers game](https://res.cloudinary.com/dqe0hw0ru/image/upload/v1565187885/camping_capers.png)
 # ⛺ Camping Capers
 ### Camping game based on gameshow app project from the [Treehouse Front-End Techdegree](https://join.teamtreehouse.com/techdegree/)
 
